@@ -10,6 +10,7 @@ end
 gem 'rails', '~> 5.0.1'
 gem 'pg'
 gem 'bootstrap-sass', '3.3.6'
+gem 'rails-controller-testing'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
